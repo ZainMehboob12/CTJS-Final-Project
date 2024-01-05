@@ -1,14 +1,4 @@
-#carouselExampleCaptions {
-    height: 100vh; /* Full viewport height */
-    width: 100vw; /* Full viewport width */
-    overflow: hidden; /* Hide scrollbars */
-}
-.carousel-item,
-.carousel-item img {
-    height: 100%;
-    width: 100%;
-    object-fit: cover; /* Maintain image aspect ratio */
-}
+
 
 
 #carouselExampleCaptions .carousel-caption {
