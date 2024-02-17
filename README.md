@@ -96,8 +96,7 @@ Server-side technology (Node.js, Express) for data storage and processing
 Database integration (MongoDB, MySQL)
 Security measures for payment processing and sensitive data
 Maintenance:
-Regular updates and bug fixes
-Content management and inventory updates
+
 
 ---
 Name: Zain Mehboob
